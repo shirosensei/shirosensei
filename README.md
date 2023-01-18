@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently learning **node.js, react**
 
-- 👨‍💻 All of my projects are available at [codersensei.netlify.app](codersensei.netlify.app)
+- 👨‍💻 All of my projects are available at [https://codersensei.netlify.app](https://codersensei.netlify.app)
 
 - 📫 How to reach me **codersensei(at)outlook.com**
 
