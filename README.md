@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Coder Sensei</h1>
+<h1 align="center">Hi 👋, I'm Tozo Sensei</h1>
 <h3 align="center">A Full stack Software engineer that loves to contribute to the tech world</h3>
 
 - 🔭 I’m currently learning **node.js, react**
