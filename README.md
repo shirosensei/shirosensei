@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Software Engineer <br><br>- 📚 I'm currently learning Javascript and React<br><br>👩‍💻 I'm currently working on my portfolio website<br><br>👯‍♀️ I'm looking to collaborate on Open-source Projects</p>
+<p align="left">- 🔭 I’m a Software Engineer <br><br>- 📚 I'm currently learning Javascript and React<br><br>- 👩‍💻 I'm currently working on my portfolio website<br><br>- 👯‍♀️ I'm looking to collaborate on Open-source Projects</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -61,8 +65,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirosensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=shirosensei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=shirosensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="161" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=shirosensei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=7&order=3" height="157" alt="streak graph"  />
 </div>
 
 ###
