@@ -15,7 +15,9 @@
 ###
 
 <div align="center">
+   <a href="https://ng.linkedin.com/in/lekan-adenusi-622745223" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
+  </a>
   <a href="https://twitter.com/shiro_sensei" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
   </a>
@@ -71,7 +73,7 @@
 
 ###
 
-<h4 align="center">📰 Projects</h4>
+<h4 align="center">📰Highlighted Projects </h4>
 
 ###
 
@@ -79,6 +81,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/shirosensei/shirosensei/output/snake.svg" alt="Snake animation" />
 
 ###
