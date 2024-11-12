@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Software Engineer <br><br>- 📚 I'm currently learning Javascript and React<br><br>- 👩‍💻 I'm currently working on my portfolio website<br><br>- 👯‍♀️ I'm looking to collaborate on Open-source Projects</p>
+<p align="left">- 🔭 I’m a Software Engineer <br><br>- 📚 I'm currently learning Javascript and React<br><br>- 👩‍💻 I'm currently working on my <a href="https://shiroisensei.netlify.app" target="_blank">portfolio website</a><br><br>- 👯‍♀️ I'm looking to collaborate on Open-source Projects</p>
 
 ###
 
