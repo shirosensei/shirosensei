@@ -80,20 +80,53 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirosensei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="161" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=shirosensei&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=7&order=3" height="157" alt="streak graph"  />
-</div>
+
+
+<h4 align="center">🚀 Highlighted Projects </h4>
 
 ###
 
-<h4 align="center">📰Highlighted Projects </h4>
 
-###
+### 1. [Currency Converter Tracker](https://github.com/yourusername/currency-converter-tracker)
+A web application that tracks real-time currency exchange rates.
 
-<p align="center">Coming soon...</p>
+![Currency Tracker Demo](https://github.com/shirosensei/Quote-Generator/blob/main/Animaon.gif)
 
-###
+- **Features**:
+  - Live currency conversion
+  - Historical data tracking
+  - Mobile-friendly UI
+- **Tech Stack**: React, Node.js, Tailwind CSS
+
+---
+
+
+### 2. [Admin Dashboard for Redirections](https://github.com/yourusername/admin-dashboard)
+An admin panel to manage website redirections dynamically.
+
+<img src="https://example.com/admin-dashboard.png" alt="Admin Dashboard" width="600">
+
+- **Features**:
+  - Token-based authentication
+  - Dynamic URL routing
+  - MYSQL integration
+- **Tech Stack**: Node.js, Express, MYSQL
+
+---
+
+### 3. [Quote Generator](https://github.com/shirosensei/Quote-Generator)
+Quote Generator for daily motivations.
+
+
+<img src="https://github.com/shirosensei/Quote-Generator/blob/main/Animation.gif" width="600">
+
+- **Features**:
+  - Responsive design
+  - Dark/White Theme
+  - Daily Motivation
+- **Tech Stack**: HTML, CSS, JavaScript, Ejs, Node.js, Express, MongoDB
+
+---
 
 
 ###
