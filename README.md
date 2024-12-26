@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">- 🔭 I’m a Software Engineer <br><br>- 📚 I'm currently learning Javascript and React<br><br>- 👩‍💻 I'm currently working on my <a href="https://shiroisensei.netlify.app" target="_blank">portfolio website</a><br><br>- 👯‍♀️ I'm looking to collaborate on Open-source Projects</p>
+<p align="left">- 🔭 I’m a Software Engineer <br><br>- 📚 I'm currently learning Javascript and React<br><br>- 👩‍💻 I'm currently working on my <a href="https://shiroisensei.netlify.app" target="_blank">portfolio website</a><br><br>
+   </p>
 
 ###
 
@@ -72,6 +73,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="27" alt="mysql logo"  />
   <img width="11" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="27" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="27" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="27" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="27" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="27" alt="graphql logo"  />
+
+
+###
 </div>
 
 ###
