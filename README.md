@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Tozo Sensei</h2>
+<h2 align="center">Hi 👋, I'm Shiro (Tozo) </h2>
 
 ###
 
