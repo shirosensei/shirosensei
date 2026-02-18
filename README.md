@@ -1,148 +1,179 @@
-<h2 align="center">Hi 👋, I'm Shiro (Tozo) </h2>
-
-###
-
-<p align="left">- 🔭 I’m a Software Engineer <br><br>- 📚 I'm currently learning Javascript and React<br><br>- 👩‍💻 I'm currently working on my <a href="https://shirosensei.dev" target="_blank">portfolio website</a><br><br>
-   </p>
-
-###
-
-<p align="left"></p>
-
-###
-
-<h3 align="center">📱 Connect With Me</h3>
-
-###
-
-<div align="center">
-   <a href="https://linkedin.com/in/codersensei" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="linkedin logo"  />
-  </a>
-  <a href="https://twitter.com/shiro_sensei" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="twitter logo"  />
-  </a>
-  <a href="https://shiroisensei.netlify.app/contact" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email Me&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="22" alt="microsoft-outlook logo"  />
-  </a>
-</div>
-
-###
-
-<h3 align="center">🛠 Language and tools</h3>
-
-###
 <div align="center">
 
-### Languages
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="40" alt="html5 logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-<img width="11" />
+# 👋 Hi, I'm Lekan Adenusi (Shiro)
 
-### Frameworks
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" height="30" alt="express logo" />
+### Full Stack Developer · Building scalable, impactful software
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shirosensei)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://shiroisensei.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:codersensei@outlook.com)
+[![Twitter](https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge)](https://twitter.com/shiro_sensei)
 
-### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="27" alt="git logo" />
-<img width="11" />
-<img src="https://cdn.simpleicons.org/postman/FF6C37" height="27" alt="postman logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="linux logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="35" alt="nginx logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
-
-
-### Databases
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="27" alt="mongodb logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="27" alt="mysql logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-
-
-### Technologies
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" alt="firebase logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="27" alt="amazonwebservices logo" />
-<img width="11" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo" />
-
-###
 </div>
 
-###
+---
 
-<p align="left"></p>
+## 👤 About Me
 
-###
+I'm a Full Stack Developer with a passion for building clean, performant applications that solve real-world problems. I work across the entire stack — from designing intuitive user interfaces to architecting robust backend systems and data pipelines.
 
-
-
-<h4 align="center">🚀 Highlighted Projects </h4>
-
-###
-
-
-### 1. [Currency Converter Tracker](https://github.com/yourusername/currency-converter-tracker)
-A web application that tracks real-time currency exchange rates.
-
-![Currency Tracker Demo](https://github.com/shirosensei/Quote-Generator/blob/main/Animaon.gif)
-
-- **Features**:
-  - Live currency conversion
-  - Historical data tracking
-  - Mobile-friendly UI
-- **Tech Stack**: React, Node.js, Tailwind CSS
+- 🔭 Currently working on expanding my project portfolio
+- 🌱 Always exploring new technologies and best practices
+- 💬 Open to collaboration on meaningful projects
 
 ---
 
+## 🧰 Tech Stack
 
-### 2. [Admin Dashboard for Redirections](https://github.com/yourusername/admin-dashboard)
-An admin panel to manage website redirections dynamically.
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-<img src="https://example.com/admin-dashboard.png" alt="Admin Dashboard" width="600">
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-- **Features**:
-  - Token-based authentication
-  - Dynamic URL routing
-  - MYSQL integration
-- **Tech Stack**: Node.js, Express, MYSQL
+**Database & Cloud**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 3. [Quote Generator](https://github.com/shirosensei/Quote-Generator)
-Quote Generator for daily motivations.
+## 🚀 Featured Projects
+
+<table width="100%" style="table-layout: fixed;">
+  
+  <!-- ROW 1 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div style="min-height:620px; padding:12px;">
+        <h3 align="center">HairHarmony</h3>
+        <div align="center">
+          <a href="https://github.com/shirosensei/hairHarmony">
+            <img src="https://github.com/user-attachments/assets/e86b7c97-7e91-4620-ad40-721e2411ff2c"
+                 alt="HairHarmony Preview"
+                 style="width:100%; max-width:400px;" />
+          </a>
+          <br/><br/>
+          <em>Smart platform connecting clients with hair professionals and streamlining salon booking.</em>
+          <br/><br/>
+          <!-- Stack -->
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+          <br/><br/>
+          Real-time booking · Auth & profiles · Mobile-first UI
+          <br/><br/>
+          <!-- Links -->
+          <a href="https://github.com/shirosensei/hairHarmony">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <a href="https://harmonysaloon.netlify.app">
+            <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="min-height:620px; padding:12px;">
+        <h3 align="center">Sales Dashboard</h3>
+        <div align="center">
+          <a href="https://github.com/shirosensei/SalesDashboard">
+            <img src="https://github.com/user-attachments/assets/4c293a89-17c0-4362-9591-92bfbae2f1cd"
+                 alt="Sales Dashboard Preview"
+                 style="width:100%; max-width:400px;" />
+          </a>
+          <br/><br/>
+          <em>Interactive analytics dashboard with real-time insights into sales performance.</em>
+          <br/><br/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <br/><br/>
+          Dynamic charts · Filters · Exportable reports
+          <br/><br/>
+          <a href="https://github.com/shirosensei/SalesDashboard">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <a href="https://salesoverview-dashboard.netlify.app">
+            <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+  <!-- ROW 2 -->
+  <tr>
+    <td width="50%" valign="top">
+      <div style="min-height:620px; padding:12px;">
+        <h3 align="center">Together</h3>
+        <div align="center">
+          <a href="https://github.com/shirosensei/Together">
+            <img src="https://user-images.githubusercontent.com/75268174/206335415-9b8ae4a7-806b-4771-a853-66a9f6789e40.png"
+                 alt="Together Calendar"
+                 style="width:100%; max-width:400px;" />
+          </a>
+          <br/><br/>
+          <em>Group calendar for public events within the 100Devs community.</em>
+          <br/><br/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <br/><br/>
+          Event scheduling · Mobile UI · Community-focused
+          <br/><br/>
+          <a href="https://github.com/shirosensei/Together">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+        </div>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <div style="min-height:620px; padding:12px;">
+        <h3 align="center">Multi Tenant System</h3>
+        <div align="center">
+          <a href="https://github.com/shirosensei/multi-tenancy-system">
+            <img src="https://github.com/user-attachments/assets/a81b1e01-7741-416b-a4ed-4a11fffc3366"
+                 alt="Multi Tenancy System"
+                 style="width:100%; max-width:400px;" />
+          </a>
+          <br/><br/>
+          <em>Scalable multi-tenant system with RBAC and MongoDB sharding.</em>
+          <br/><br/>
+          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" />
+          <br/><br/>
+          Multi-tenant architecture · RBAC · Sharded DB
+          <br/><br/>
+          <a href="https://github.com/shirosensei/multi-tenancy-system">
+            <img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white" />
+          </a>
+          <a href="https://mensa-portal.netlify.app">
+            <img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
+          </a>
+        </div>
+      </div>
+    </td>
+  </tr>
+
+</table>
 
 
-<img src="https://github.com/shirosensei/Quote-Generator/blob/main/Animation.gif" width="600">
 
-- **Features**:
-  - Responsive design
-  - Dark/White Theme
-  - Daily Motivation
-- **Tech Stack**: HTML, CSS, JavaScript, Ejs, Node.js, Express, MongoDB
-
----
-
-
-###
